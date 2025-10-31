@@ -27,7 +27,7 @@ const Hero = () => {
                 Get Started <ArrowUpRight className="h-5! w-5!" />
               </Button>
             </a>
-            <a href="https://github.com/syadzaarrana/kowan-lab8">
+            <a href="https://github.com/Kowan-AkbarFarrasSyadza/lab8">
               <Button
                 variant="outline"
                 size="lg"

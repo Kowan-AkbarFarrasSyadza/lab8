@@ -34,7 +34,7 @@ Customized from: [Pure Landing Shadcn UI Template (Open Source)](https://github.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/syadzaarrana/kowan-lab8.git
+   git clone https://github.com/Kowan-AkbarFarrasSyadza/lab8.git
    cd kowan-lab8
    ```
 
@@ -44,11 +44,13 @@ Customized from: [Pure Landing Shadcn UI Template (Open Source)](https://github.
    npm install
    ```
 
-3. **Start the development server:**
+3. **Setup API URLs in .env**
+
+4. **Start the development server:**
 
    ```bash
    npm run dev
    ```
 
-4. **Open the app in your browser:**
+5. **Open the app in your browser:**
    [http://localhost:3000](http://localhost:3000)
