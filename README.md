@@ -26,7 +26,7 @@ Customized from: [Pure Landing Shadcn UI Template (Open Source)](https://github.
 | Name            | Student ID | Assigned Work                      |
 | --------------- | ---------- | ------------------------- |
 | Akbar Firdaus    | 2106651856  | Square Area + Cube Surface Area        |
-| Farras Hafizhudin Indra Wijaya | 2106652682       | Cylinder Lateral Surface Area  |
+| Farras Hafizhudin Indra Wijaya | 2106652682       | Cylinder Lateral Surface Area + Deployment Dokku frontend  |
 | Syadza Nayla Arrana Desvianto | 2106634055       | Setup frontend + Circle Area |
 
 ## ⚙️ Running Locally
@@ -35,7 +35,7 @@ Customized from: [Pure Landing Shadcn UI Template (Open Source)](https://github.
 
    ```bash
    git clone https://github.com/Kowan-AkbarFarrasSyadza/lab8.git
-   cd kowan-lab8
+   cd lab8
    ```
 
 2. **Install dependencies:**
